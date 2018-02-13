@@ -10,6 +10,7 @@
 4. Push your work up to github with the following steps:
   - `git add .`
   - `git commit -m "commit message goes here"`
+  - To test your code, run `node control-flow.js`
   - `git push origin master`
   - On github, open up a pull request
   - Add your name to the title section and create the pull request
