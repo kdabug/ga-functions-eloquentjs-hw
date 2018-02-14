@@ -9,7 +9,7 @@
 3. Do the homework in the `control-flow.js` file
 4. Push your work up to github with the following steps:
   - `git add .`
-  - `git commit -m "commit message goes here"`
+  - `git commit -m "commit message goes here"` 
   - To test your code, run `node control-flow.js`
   - `git push origin master`
   - On github, open up a pull request
