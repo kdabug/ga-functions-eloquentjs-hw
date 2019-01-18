@@ -10,7 +10,7 @@ Read [Eloquent Javascript (Ch. 3)](http://eloquentjavascript.net/03_functions.ht
 4. Push your work up to github with the following steps:
   - `git add .`
   - `git commit -m "commit message goes here"` 
-  - To test your code, run `node control-flow.js`
+  - To test your code, run `node functions.js`
   
   #### *We will do this together tomorrow morning*
   - `git push origin master`
