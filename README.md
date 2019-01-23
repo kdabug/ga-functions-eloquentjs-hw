@@ -22,6 +22,7 @@ Read [Eloquent Javascript (Ch. 3)](http://eloquentjavascript.net/03_functions.ht
 Review the chapter 3 of EloquentJS on program structure and complete the following two problems. Use the hints if you're stuck.  
 1. [Minimum](http://eloquentjavascript.net/03_functions.html#i_XTmO7z7MPq)
 2. [Bean Counting](http://eloquentjavascript.net/03_functions.html#i_3rsiDgC2do)
+3. Complete the questions in this [Google Form](https://goo.gl/forms/rwAOLpsKKPPK9f7C2)
 
 
 ### *Please note*: Eloquent JavaScript was not written by General Assembly, we are using the open source version of the book to augment the curriculum.
