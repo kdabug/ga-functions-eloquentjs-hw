@@ -5,7 +5,7 @@ Read [Eloquent Javascript (Ch. 3)](http://eloquentjavascript.net/03_functions.ht
 
 ## Before getting started, here's how to submit the homework
 1. Fork this repo to your own account
-2. Clone it to your local machine from your account
+2. Clone it to your local machine (make sure it is the forked copy)
 3. Do the homework in the `functions.js` file
 4. Push your work up to github with the following steps:
   - `git add .`
