@@ -12,6 +12,8 @@ Read [Eloquent Javascript (Ch. 3)](http://eloquentjavascript.net/03_functions.ht
   - `git add .`
   - `git commit -m "commit message goes here"` 
   - To test your code, run `node functions.js`
+
+**Do Not** do the next three lines (pushing to github) - we will do this tomorrow morning
   - `git push origin master`
   - On github, open up a pull request
   - Add your name to the title section and create the pull request with your completion and comfort levels and any questions you may have.
